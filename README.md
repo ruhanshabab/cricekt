@@ -4,3 +4,4 @@ put then in the same folder and run the program
 # Cricket-Score-Sheet-using-C
 # Cricket-Score-Sheet-using-C
 # Cricket-Score-Sheet-using-C
+# Cricket-Score-Card-Project-using-C
